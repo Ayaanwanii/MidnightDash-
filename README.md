@@ -2,6 +2,16 @@
 
 Midnight Dash is a small three-lane runner made with Python and Pygame Zero. Move between lanes to dodge the Hopper and Night Bat, and survive for 45 seconds to reach the finish.
 
+## Screenshots
+
+### Main menu
+
+![Midnight Dash main menu](screenshots/main-menu.png)
+
+### Gameplay
+
+![Midnight Dash gameplay](screenshots/gameplay.png)
+
 ## Character animation preview
 
 The preview shows the two idle frames and four running frames shipped for each character.
@@ -68,7 +78,7 @@ game.py       Game logic
 images/       Runner and enemy animation frames
 sounds/       Menu, collision, win, and loss sound effects
 music/        Background soundtrack
-screenshots/  Character animation preview
+screenshots/  Menu, gameplay, and character previews
 README.md     Project overview and setup guide
 readme.txt    Short run instructions
 ```

@@ -34,6 +34,6 @@ game.py                 Game logic
 images/                 Player and enemy animation frames
 sounds/                 Collision, menu, win, and loss effects
 music/                  Looping background music
-screenshots/            Character animation preview
+screenshots/            Menu, gameplay, and character previews
 README.md               Project overview and setup guide
 readme.txt              Run instructions and controls
